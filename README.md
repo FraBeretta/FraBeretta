@@ -2,7 +2,7 @@
 
 I'm **Francesco Beretta**, currently in the second year of my MSc in Data Science at the University of Milano Bicocca, after completing a BSc in Statistics. I love working with data: from exploration and modeling to building clear, reproducible pipelines. 
 
-Right now I'm building a solid portfolio that bridges academic work and real-world applications. 
+I am currently building a solid portfolio that bridges academic work and real-world applications and am seeking a curricular internship in the second semester to apply and deepen my skills, with the goal of transitioning into a full-time data science role afterward.
 
 ---
 
